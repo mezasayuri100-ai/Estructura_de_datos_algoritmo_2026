@@ -1,1 +1,1 @@
-# Estructura_de_datos_algoritmo_2026.ciber
+# Estructura_de_datos_algoritmo_2026
